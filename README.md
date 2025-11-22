@@ -28,6 +28,7 @@ Recommended next step
 All displayed dynamically through an LWC on the Opportunity Record Page.
 
 🧠 Core Features
+
 🔹 Apex Backend Logic
 
 Custom scoring algorithm
